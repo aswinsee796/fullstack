@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SpringSecurityLatestApplication",
+            "request": "launch",
+            "mainClass": "com.sample.SpringSecurityLatestApplication",
+            "projectName": "spring-security-latest"
+        },
+        {
+            "type": "java",
+            "name": "AppApplication",
+            "request": "launch",
+            "mainClass": "com.chess.app.AppApplication",
+            "projectName": "app"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ChessapplicationApplication<chessapplication>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.chess.chessapplication.ChessapplicationApplication",
+            "projectName": "chessapplication",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+
+.background-home {
+    background-image: url("/project/src/backgroundImage.jpg");
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .content-container {
+    text-align: center;
+    color: #c2b1b1; /* Set text color to white or a suitable color for better contrast */
+    font-size: xx-large;
+    font-family:monospace;
+    font-weight: bold;
+    
+    
+  }
+ 
+  
